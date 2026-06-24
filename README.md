@@ -4,7 +4,7 @@ A simple login page built using HTML and CSS.
 
 ## Preview
 
-![Login Page Screenshot](Screenshot 2026-06-25 032446.png)
+![Login Page Screenshot](Screenshot.png)
 
 ## Features
 
