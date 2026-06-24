@@ -1,6 +1,6 @@
 # Login Page
 
-A simple login page built using HTML and CSS.
+A simple login page built using HTML.
 
 ## Preview
 
@@ -16,7 +16,6 @@ A simple login page built using HTML and CSS.
 ## Technologies Used
 
 - HTML5
-- CSS3
 
 ## Author
 
